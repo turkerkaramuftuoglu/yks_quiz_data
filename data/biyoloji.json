@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bio_001",
+    "subjectId": "biyoloji",
+    "topic": "Hücre",
+    "questionText": "Hücrede protein sentezinden sorumlu organel hangisidir?",
+    "options": ["Mitokondri", "Ribozom", "Golgi aygıtı", "Lizozom"],
+    "correctIndex": 1,
+    "explanation": "Ribozomlar, mRNA'daki genetik bilgiyi okuyarak amino asitleri birleştirip protein sentezler."
+  },
+  {
+    "id": "bio_002",
+    "subjectId": "biyoloji",
+    "topic": "Fotosentez",
+    "questionText": "Fotosentez tepkimesinin ürünleri nelerdir?",
+    "options": ["CO₂ ve H₂O", "O₂ ve glikoz", "CO₂ ve glikoz", "O₂ ve H₂O"],
+    "correctIndex": 1,
+    "explanation": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. Fotosentezde karbondioksit ve su kullanılarak oksijen ve glikoz üretilir."
+  },
+  {
+    "id": "bio_003",
+    "subjectId": "biyoloji",
+    "topic": "Genetik",
+    "questionText": "İnsan vücudunda kaç çift kromozom bulunur?",
+    "options": ["22", "23", "44", "46"],
+    "correctIndex": 1,
+    "explanation": "İnsanda 23 çift (toplam 46) kromozom bulunur. 22 çift otozom, 1 çift cinsiyet kromozomudur."
+  },
+  {
+    "id": "bio_004",
+    "subjectId": "biyoloji",
+    "topic": "Sindirim",
+    "questionText": "Karbonhidratların kimyasal sindirimi ilk olarak nerede başlar?",
+    "options": ["Mide", "Ağız", "İnce bağırsak", "Kalın bağırsak"],
+    "correctIndex": 1,
+    "explanation": "Tükürükteki amilaz enzimi, ağızda nişastayı maltoza parçalayarak karbonhidrat sindirimini başlatır."
+  },
+  {
+    "id": "bio_005",
+    "subjectId": "biyoloji",
+    "topic": "Ekoloji",
+    "questionText": "Bir ekosistemde üreticilerin enerjisinin tüketicilere aktarılma oranı yaklaşık yüzde kaçtır?",
+    "options": ["%1", "%10", "%50", "%90"],
+    "correctIndex": 1,
+    "explanation": "Enerji piramidine göre her beslenme basamağında enerjinin yaklaşık %10'u bir üst basamağa aktarılır."
+  }
+]

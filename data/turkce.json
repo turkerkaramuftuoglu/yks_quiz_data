@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tur_001",
+    "subjectId": "turkce",
+    "topic": "Sözcük Türleri",
+    "questionText": "'Küçük çocuk hızla koşuyordu.' cümlesinde kaç sıfat vardır?",
+    "options": ["1", "2", "3", "Hiç yok"],
+    "correctIndex": 0,
+    "explanation": "'Küçük' sözcüğü 'çocuk' ismini nitelediği için sıfattır. 'Hızla' bir zarf, 'koşuyordu' fiildir."
+  },
+  {
+    "id": "tur_002",
+    "subjectId": "turkce",
+    "topic": "Cümle Bilgisi",
+    "questionText": "'Yağmur yağınca maç ertelendi.' cümlesinde yan cümlenin türü nedir?",
+    "options": ["Neden-sonuç", "Zaman", "Koşul", "Amaç"],
+    "correctIndex": 0,
+    "explanation": "'Yağmur yağınca' ifadesi maçın ertelenmesinin nedenini bildirdiği için neden-sonuç ilişkisi vardır."
+  },
+  {
+    "id": "tur_003",
+    "subjectId": "turkce",
+    "topic": "Yazım Kuralları",
+    "questionText": "Aşağıdakilerden hangisinin yazımı doğrudur?",
+    "options": ["Herşey", "Her şey", "Herşey'i", "Her-şey"],
+    "correctIndex": 1,
+    "explanation": "'Her' belgisiz sıfatı kendisinden sonraki sözcükten ayrı yazılır: 'her şey'."
+  },
+  {
+    "id": "tur_004",
+    "subjectId": "turkce",
+    "topic": "Anlam Bilgisi",
+    "questionText": "'Eli uzun' deyiminin anlamı nedir?",
+    "options": ["Cömert olan", "Hırsızlık yapan", "Uzun boylu olan", "Becerikli olan"],
+    "correctIndex": 1,
+    "explanation": "'Eli uzun' deyimi hırsızlık yapma eğiliminde olan kişiler için kullanılır."
+  },
+  {
+    "id": "tur_005",
+    "subjectId": "turkce",
+    "topic": "Paragraf",
+    "questionText": "Bir paragrafta ana düşünceyi destekleyen cümlelere ne denir?",
+    "options": ["Ana fikir", "Yardımcı düşünce", "Konu cümlesi", "Sonuç cümlesi"],
+    "correctIndex": 1,
+    "explanation": "Paragrafta ana düşünceyi açıklayan, örnekleyen ve destekleyen cümlelere yardımcı düşünce denir."
+  }
+]

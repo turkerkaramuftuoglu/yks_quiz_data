@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ing_001",
+    "subjectId": "ingilizce",
+    "topic": "Tenses",
+    "questionText": "Choose the correct form: 'She _____ to school every day.'",
+    "options": ["go", "goes", "going", "gone"],
+    "correctIndex": 1,
+    "explanation": "Simple Present Tense'de üçüncü tekil şahıs (he/she/it) ile fiile -s/-es eklenir: she goes."
+  },
+  {
+    "id": "ing_002",
+    "subjectId": "ingilizce",
+    "topic": "Vocabulary",
+    "questionText": "'Abundant' kelimesinin Türkçe karşılığı nedir?",
+    "options": ["Yetersiz", "Bol, çok miktarda", "Nadir", "Sabit"],
+    "correctIndex": 1,
+    "explanation": "'Abundant' bol, çok miktarda bulunan anlamına gelir. Zıttı 'scarce' (kıt) kelimesidir."
+  },
+  {
+    "id": "ing_003",
+    "subjectId": "ingilizce",
+    "topic": "Grammar",
+    "questionText": "Fill in the blank: 'If I _____ rich, I would travel the world.'",
+    "options": ["am", "was", "were", "be"],
+    "correctIndex": 2,
+    "explanation": "Second Conditional (Type 2) yapısında if clause'da 'were' kullanılır: If I were rich... Bu gerçek dışı bir durumu ifade eder."
+  },
+  {
+    "id": "ing_004",
+    "subjectId": "ingilizce",
+    "topic": "Reading",
+    "questionText": "'Although it was raining, they went for a walk.' Bu cümlede 'although' ne anlama gelir?",
+    "options": ["Çünkü", "Bu yüzden", "Rağmen", "Ayrıca"],
+    "correctIndex": 2,
+    "explanation": "'Although' bağlacı '-e rağmen' anlamında zıtlık bildirir. Yağmura rağmen yürüyüşe çıktılar."
+  },
+  {
+    "id": "ing_005",
+    "subjectId": "ingilizce",
+    "topic": "Phrasal Verbs",
+    "questionText": "'Give up' ne anlama gelir?",
+    "options": ["Vermek", "Vazgeçmek", "Yukarı bakmak", "Devam etmek"],
+    "correctIndex": 1,
+    "explanation": "'Give up' vazgeçmek, bırakmak anlamına gelen bir phrasal verb'dür. Örnek: Don't give up your dreams."
+  }
+]

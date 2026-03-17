@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fel_001",
+    "subjectId": "felsefe",
+    "topic": "Bilgi Felsefesi",
+    "questionText": "Bilginin kaynağının yalnızca akıl olduğunu savunan felsefi akım hangisidir?",
+    "options": ["Empirizm", "Rasyonalizm", "Pragmatizm", "Pozitivizm"],
+    "correctIndex": 1,
+    "explanation": "Rasyonalizm (akılcılık), bilginin temel kaynağının akıl ve düşünme olduğunu savunur. Descartes bu akımın öncülerindendir."
+  },
+  {
+    "id": "fel_002",
+    "subjectId": "felsefe",
+    "topic": "Ahlak Felsefesi",
+    "questionText": "Kant'ın ahlak anlayışında eylemin ahlaki değerini belirleyen nedir?",
+    "options": ["Sonucu", "Niyeti", "Toplumsal faydası", "Dini uygunluğu"],
+    "correctIndex": 1,
+    "explanation": "Kant'a göre bir eylemin ahlaki değerini sonucu değil, arkasındaki niyet (ödev duygusu) belirler."
+  },
+  {
+    "id": "fel_003",
+    "subjectId": "felsefe",
+    "topic": "Varlık Felsefesi",
+    "questionText": "Varlığın yalnızca maddeden oluştuğunu savunan görüş hangisidir?",
+    "options": ["İdealizm", "Materyalizm", "Düalizm", "Nihilizm"],
+    "correctIndex": 1,
+    "explanation": "Materyalizm, var olan her şeyin maddeden ibaret olduğunu ve tinsel bir varlık alanının olmadığını savunur."
+  },
+  {
+    "id": "fel_004",
+    "subjectId": "felsefe",
+    "topic": "Siyaset Felsefesi",
+    "questionText": "'Toplum sözleşmesi' kavramını ortaya atan düşünürlerden biri kimdir?",
+    "options": ["Aristoteles", "Karl Marx", "Jean-Jacques Rousseau", "Friedrich Nietzsche"],
+    "correctIndex": 2,
+    "explanation": "Rousseau, insanların özgürlüklerini korumak için aralarında bir sözleşme yaparak devleti oluşturduğunu savunmuştur."
+  },
+  {
+    "id": "fel_005",
+    "subjectId": "felsefe",
+    "topic": "Mantık",
+    "questionText": "'Bütün insanlar ölümlüdür. Sokrates insandır. O halde Sokrates ölümlüdür.' Bu akıl yürütme biçimi nedir?",
+    "options": ["Tümevarım", "Tümdengelim", "Analoji", "Pragmatik çıkarım"],
+    "correctIndex": 1,
+    "explanation": "Tümdengelim (dedüksiyon), genel önermelerden özel bir sonuca ulaşma yöntemidir."
+  }
+]

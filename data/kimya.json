@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kim_001",
+    "subjectId": "kimya",
+    "topic": "Atom",
+    "questionText": "Bir atomun proton sayısına ne denir?",
+    "options": ["Kütle numarası", "Atom numarası", "Nötron sayısı", "Değerlik"],
+    "correctIndex": 1,
+    "explanation": "Atom numarası (Z), bir atomun çekirdeğindeki proton sayısıdır ve elementi tanımlar."
+  },
+  {
+    "id": "kim_002",
+    "subjectId": "kimya",
+    "topic": "Periyodik Tablo",
+    "questionText": "Periyodik tabloda aynı grupta bulunan elementlerin ortak özelliği nedir?",
+    "options": ["Aynı kütle", "Aynı değerlik elektron sayısı", "Aynı nötron sayısı", "Aynı enerji seviyesi"],
+    "correctIndex": 1,
+    "explanation": "Aynı gruptaki elementler aynı sayıda değerlik elektronuna sahiptir, bu yüzden benzer kimyasal özellik gösterir."
+  },
+  {
+    "id": "kim_003",
+    "subjectId": "kimya",
+    "topic": "Bağlar",
+    "questionText": "NaCl bileşiğindeki bağ türü nedir?",
+    "options": ["Kovalent bağ", "İyonik bağ", "Metalik bağ", "Van der Waals"],
+    "correctIndex": 1,
+    "explanation": "Na (metal) elektronu Cl'ye (ametal) verir. Elektron alışverişi sonucu iyonik bağ oluşur."
+  },
+  {
+    "id": "kim_004",
+    "subjectId": "kimya",
+    "topic": "Mol Kavramı",
+    "questionText": "1 mol suyun (H₂O) kütlesi kaç gramdır? (H=1, O=16)",
+    "options": ["16", "17", "18", "20"],
+    "correctIndex": 2,
+    "explanation": "H₂O = 2(1) + 16 = 18 g/mol. 1 mol su 18 gramdır."
+  },
+  {
+    "id": "kim_005",
+    "subjectId": "kimya",
+    "topic": "Asit-Baz",
+    "questionText": "pH değeri 3 olan bir çözelti için ne söylenebilir?",
+    "options": ["Kuvvetli baz", "Nötr", "Zayıf asit", "Asidik"],
+    "correctIndex": 3,
+    "explanation": "pH < 7 olan çözeltiler asidiktir. pH 3, oldukça asidik bir çözeltiyi ifade eder."
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fiz_001",
+    "subjectId": "fizik",
+    "topic": "Hareket",
+    "questionText": "Sabit hızla hareket eden bir cismin ivmesi kaçtır?",
+    "options": ["1 m/s²", "0 m/s²", "9.8 m/s²", "Hızına bağlı"],
+    "correctIndex": 1,
+    "explanation": "Sabit hızla hareket eden cismin hızı değişmediği için ivmesi sıfırdır. a = Δv/Δt = 0."
+  },
+  {
+    "id": "fiz_002",
+    "subjectId": "fizik",
+    "topic": "Kuvvet",
+    "questionText": "5 kg kütleli bir cisme 20 N kuvvet uygulanırsa ivmesi kaç m/s² olur?",
+    "options": ["2", "4", "10", "100"],
+    "correctIndex": 1,
+    "explanation": "Newton'un 2. yasası: F = m × a → 20 = 5 × a → a = 4 m/s²."
+  },
+  {
+    "id": "fiz_003",
+    "subjectId": "fizik",
+    "topic": "Enerji",
+    "questionText": "2 kg kütleli bir cisim 10 m yükseklikten serbest bırakılırsa potansiyel enerjisi kaç Joule'dür? (g = 10 m/s²)",
+    "options": ["20", "100", "200", "2000"],
+    "correctIndex": 2,
+    "explanation": "Ep = m × g × h = 2 × 10 × 10 = 200 J."
+  },
+  {
+    "id": "fiz_004",
+    "subjectId": "fizik",
+    "topic": "Isı ve Sıcaklık",
+    "questionText": "Suyun kaynama noktası deniz seviyesinde kaç °C'dir?",
+    "options": ["90", "95", "100", "110"],
+    "correctIndex": 2,
+    "explanation": "Saf su, 1 atm basınç altında (deniz seviyesi) 100°C'de kaynar."
+  },
+  {
+    "id": "fiz_005",
+    "subjectId": "fizik",
+    "topic": "Dalgalar",
+    "questionText": "Frekansı 50 Hz ve dalga boyu 2 m olan bir dalganın hızı kaç m/s'dir?",
+    "options": ["25", "50", "100", "200"],
+    "correctIndex": 2,
+    "explanation": "v = f × λ = 50 × 2 = 100 m/s."
+  }
+]

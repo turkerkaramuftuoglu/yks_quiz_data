@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tar_001",
+    "subjectId": "tarih",
+    "topic": "Kurtuluş Savaşı",
+    "questionText": "Büyük Taarruz hangi tarihte başlamıştır?",
+    "options": ["26 Ağustos 1922", "30 Ağustos 1922", "9 Eylül 1922", "23 Nisan 1920"],
+    "correctIndex": 0,
+    "explanation": "Büyük Taarruz 26 Ağustos 1922'de başlamış, 30 Ağustos'ta Başkomutanlık Meydan Muharebesi kazanılmıştır."
+  },
+  {
+    "id": "tar_002",
+    "subjectId": "tarih",
+    "topic": "Osmanlı",
+    "questionText": "İstanbul'un fethi hangi yılda gerçekleşmiştir?",
+    "options": ["1071", "1299", "1453", "1517"],
+    "correctIndex": 2,
+    "explanation": "İstanbul, Fatih Sultan Mehmet tarafından 29 Mayıs 1453'te fethedilmiştir."
+  },
+  {
+    "id": "tar_003",
+    "subjectId": "tarih",
+    "topic": "İnkılaplar",
+    "questionText": "Türkiye'de Latin alfabesine geçiş hangi yılda yapılmıştır?",
+    "options": ["1925", "1926", "1928", "1930"],
+    "correctIndex": 2,
+    "explanation": "1 Kasım 1928'de kabul edilen Harf İnkılabı ile Arap alfabesinden Latin alfabesine geçilmiştir."
+  },
+  {
+    "id": "tar_004",
+    "subjectId": "tarih",
+    "topic": "İlk Türk Devletleri",
+    "questionText": "Türklerin bilinen ilk devleti hangisidir?",
+    "options": ["Göktürk", "Büyük Hun", "Uygur", "Kırgız"],
+    "correctIndex": 1,
+    "explanation": "Büyük Hun Devleti (MÖ 220), bilinen ilk Türk devletidir. Kurucusu Teoman'dır."
+  },
+  {
+    "id": "tar_005",
+    "subjectId": "tarih",
+    "topic": "Dünya Savaşları",
+    "questionText": "Birinci Dünya Savaşı hangi olayla başlamıştır?",
+    "options": ["Almanya'nın Polonya'yı işgali", "Avusturya veliahtının suikaste uğraması", "Rusya'da devrim", "Osmanlı'nın savaşa girmesi"],
+    "correctIndex": 1,
+    "explanation": "28 Haziran 1914'te Avusturya-Macaristan veliahtı Franz Ferdinand'ın Saraybosna'da suikaste uğraması savaşı tetiklemiştir."
+  }
+]

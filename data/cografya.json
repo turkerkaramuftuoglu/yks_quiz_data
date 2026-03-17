@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cog_001",
+    "subjectId": "cografya",
+    "topic": "Türkiye Coğrafyası",
+    "questionText": "Türkiye'nin en uzun nehri hangisidir?",
+    "options": ["Fırat", "Kızılırmak", "Sakarya", "Dicle"],
+    "correctIndex": 1,
+    "explanation": "Kızılırmak 1355 km ile Türkiye sınırları içindeki en uzun nehirdir. Fırat daha uzundur ancak büyük kısmı sınır dışındadır."
+  },
+  {
+    "id": "cog_002",
+    "subjectId": "cografya",
+    "topic": "İklim",
+    "questionText": "Akdeniz ikliminde yaz mevsiminin temel özelliği nedir?",
+    "options": ["Serin ve yağışlı", "Sıcak ve kurak", "Ilık ve nemli", "Soğuk ve karlı"],
+    "correctIndex": 1,
+    "explanation": "Akdeniz ikliminde yazlar sıcak ve kurak, kışlar ılık ve yağışlıdır."
+  },
+  {
+    "id": "cog_003",
+    "subjectId": "cografya",
+    "topic": "Nüfus",
+    "questionText": "Türkiye'de nüfus yoğunluğunun en fazla olduğu bölge hangisidir?",
+    "options": ["Ege", "Marmara", "İç Anadolu", "Akdeniz"],
+    "correctIndex": 1,
+    "explanation": "Marmara Bölgesi, İstanbul başta olmak üzere sanayi ve ticaret merkezlerini barındırdığından en yoğun nüfuslu bölgedir."
+  },
+  {
+    "id": "cog_004",
+    "subjectId": "cografya",
+    "topic": "Harita Bilgisi",
+    "questionText": "Ekvator'dan kutuplara gidildikçe paralel dairelerin uzunluğu nasıl değişir?",
+    "options": ["Artar", "Azalır", "Değişmez", "Önce artar sonra azalır"],
+    "correctIndex": 1,
+    "explanation": "Dünya'nın küre şekli nedeniyle Ekvator'dan kutuplara doğru gidildikçe paralel daireleri kısalır."
+  },
+  {
+    "id": "cog_005",
+    "subjectId": "cografya",
+    "topic": "Yer Şekilleri",
+    "questionText": "Karstik arazilerde oluşan huni biçimli çukurluklara ne denir?",
+    "options": ["Vadi", "Dolin", "Kanyon", "Plato"],
+    "correctIndex": 1,
+    "explanation": "Dolinler, kalkerli (karstik) arazilerde suyun kayacı eritmesiyle oluşan huni biçimli çukurluklardır."
+  }
+]
