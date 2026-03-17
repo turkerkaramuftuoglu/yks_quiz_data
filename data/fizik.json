@@ -3,7 +3,7 @@
     "id": "fiz_001",
     "subjectId": "fizik",
     "topic": "Hareket",
-    "questionText": "Sabit hızla hareket eden bir cismin ivmesi kaçtır?",
+    "questionText": "TEST!",
     "options": ["1 m/s²", "0 m/s²", "9.8 m/s²", "Hızına bağlı"],
     "correctIndex": 1,
     "explanation": "Sabit hızla hareket eden cismin hızı değişmediği için ivmesi sıfırdır. a = Δv/Δt = 0."
