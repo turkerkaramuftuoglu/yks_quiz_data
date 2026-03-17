@@ -1,5 +1,14 @@
 [
   {
+    "id": "mat_001",
+    "subjectId": "matematik",
+    "topic": "Temel Kavramlar",
+    "questionText": "12 ile 18'in en büyük ortak böleni (EBOB) kaçtır?",
+    "options": ["2", "4", "6", "12"],
+    "correctIndex": 2,
+    "explanation": "12 = 2² × 3, 18 = 2 × 3². Ortak çarpanların en küçük kuvvetleri: 2¹ × 3¹ = 6."
+  },
+  {
     "id": "mat_002",
     "subjectId": "matematik",
     "topic": "Denklemler",
