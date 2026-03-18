@@ -52,5 +52,14 @@
     "options": ["Aynı kütle", "Aynı değerlik elektron sayısı", "Aynı nötron sayısı", "Aynı enerji seviyesi"],
     "correctIndex": 1,
     "explanation": "Aynı gruptaki elementler aynı sayıda değerlik elektronuna sahiptir, bu yüzden benzer kimyasal özellik gösterir."
+  },
+  {
+    "id": "kim_007",
+    "subjectId": "kimya",
+    "topic": "Periyodik Tablo",
+    "questionText": "TESTKIM2",
+    "options": ["Aynı kütle", "Aynı değerlik elektron sayısı", "Aynı nötron sayısı", "Aynı enerji seviyesi"],
+    "correctIndex": 1,
+    "explanation": "Aynı gruptaki elementler aynı sayıda değerlik elektronuna sahiptir, bu yüzden benzer kimyasal özellik gösterir."
   }
 ]
