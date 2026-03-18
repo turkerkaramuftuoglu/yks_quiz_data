@@ -43,5 +43,14 @@
     "options": ["25", "50", "100", "200"],
     "correctIndex": 2,
     "explanation": "v = f × λ = 50 × 2 = 100 m/s."
+  },
+  {
+    "id": "fiz_006",
+    "subjectId": "TEST",
+    "topic": "TEST",
+    "questionText": "TEST",
+    "options": ["2", "4", "10", "100"],
+    "correctIndex": 1,
+    "explanation": "Newton'un 2. yasası: F = m × a → 20 = 5 × a → a = 4 m/s²."
   }
 ]
