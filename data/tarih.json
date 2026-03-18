@@ -43,5 +43,14 @@
     "options": ["Almanya'nın Polonya'yı işgali", "Avusturya veliahtının suikaste uğraması", "Rusya'da devrim", "Osmanlı'nın savaşa girmesi"],
     "correctIndex": 1,
     "explanation": "28 Haziran 1914'te Avusturya-Macaristan veliahtı Franz Ferdinand'ın Saraybosna'da suikaste uğraması savaşı tetiklemiştir."
+  },
+  {
+    "id": "tar_006",
+    "subjectId": "tarih",
+    "topic": "Osmanlı",
+    "questionText": "TESTTAR",
+    "options": ["1071", "1299", "1453", "1517"],
+    "correctIndex": 2,
+    "explanation": "İstanbul, Fatih Sultan Mehmet tarafından 29 Mayıs 1453'te fethedilmiştir."
   }
 ]
