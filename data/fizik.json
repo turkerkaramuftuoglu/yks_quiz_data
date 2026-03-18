@@ -52,5 +52,14 @@
     "options": ["2", "4", "10", "100"],
     "correctIndex": 1,
     "explanation": "Newton'un 2. yasası: F = m × a → 20 = 5 × a → a = 4 m/s²."
+  },
+  {
+    "id": "fiz_007",
+    "subjectId": "fizik",
+    "topic": "Kuvvet",
+    "questionText": "TEST2",
+    "options": ["2", "4", "10", "100"],
+    "correctIndex": 1,
+    "explanation": "Newton'un 2. yasası: F = m × a → 20 = 5 × a → a = 4 m/s²."
   }
 ]
