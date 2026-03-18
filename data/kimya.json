@@ -43,5 +43,14 @@
     "options": ["Kuvvetli baz", "Nötr", "Zayıf asit", "Asidik"],
     "correctIndex": 3,
     "explanation": "pH < 7 olan çözeltiler asidiktir. pH 3, oldukça asidik bir çözeltiyi ifade eder."
+  },
+  {
+    "id": "kim_006",
+    "subjectId": "kimya",
+    "topic": "Periyodik Tablo",
+    "questionText": "TESTKIM",
+    "options": ["Aynı kütle", "Aynı değerlik elektron sayısı", "Aynı nötron sayısı", "Aynı enerji seviyesi"],
+    "correctIndex": 1,
+    "explanation": "Aynı gruptaki elementler aynı sayıda değerlik elektronuna sahiptir, bu yüzden benzer kimyasal özellik gösterir."
   }
 ]
